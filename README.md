@@ -42,7 +42,7 @@ Good references on repeaters:
 
 ** Stack FPR waveforms based on CC-maximizing for visualization.
 
-** Where are the FPR in relation to the original repeaters? Colocated, or in other places? 
+** Where are the FPR in relation to the original repeaters? Colocated, or in other places? Could that be a sign of hypocenter mislocation?
 
 
 
